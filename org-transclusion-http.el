@@ -44,6 +44,7 @@
 (require 'org-transclusion-html)
 (require 'cl-lib)
 (require 'pcase)
+(require 'url)
 (require 'plz)
 
 ;;;; Functions
