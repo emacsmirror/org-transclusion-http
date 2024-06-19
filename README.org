@@ -77,7 +77,9 @@ questions can be submitted to the [[https://lists.sr.ht/~ushin/ushin][ushin publ
 
 *** 0.4-pre
 
-Nothing yet...
+**** Fix
+
+  - Fix byte compilation error.  Thanks to Chris Rayner for reporting!
 
 *** 0.3
 
